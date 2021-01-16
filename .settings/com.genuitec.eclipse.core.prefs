@@ -1,0 +1,4 @@
+#Sat Jan 09 12:24:05 CST 2021
+eclipse.preferences.version=1
+validator.Checked=WebContent/js/jquery-1.7.1.min.js,WebContent/js/jquery-ui-1.8.18.custom.min.js
+validator.Unchecked=
